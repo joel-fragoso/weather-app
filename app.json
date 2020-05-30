@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "mono-weather-app",
+    "name": "Mono Weather",
     "slug": "mono-weather-app",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,6 +22,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.joel.monoweather",
+      "versionCode": 1
     }
   }
 }
