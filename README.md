@@ -27,6 +27,8 @@
 
 ## Overview
 
+O Weather App é um aplicativo mobile com layout minimalista, com a finalidade de informar o clima local utilizando a geolocalização do usuário e consumindo os dados da API OpenWeatherApp. O aplicativo foi desenvolvido com React Native.
+
 <p align="center">
   <img height="480px" src="./assets/screenshot.png" alt="Weather App">
 </p>
